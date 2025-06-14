@@ -1,0 +1,1 @@
+para = document.querySelector('p')
